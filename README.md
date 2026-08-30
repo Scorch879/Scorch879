@@ -66,9 +66,9 @@ I am a Full-stack developer specializing in hardware integration, embedded syste
 
 <p align="center">
   <!-- Core Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Scorch879&show_icons=true&theme=dark&hide_border=true" alt="Core Stats" width="49.5%" min-width="320px" align="center"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api?username=Scorch879&show_icons=true&theme=dark&hide_border=true" alt="Core Stats" width="49.5%" min-width="320px" align="center"/></a>
   <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scorch879&layout=compact&theme=dark&hide_border=true&card_width=460&langs_count=8" alt="Top Languages" width="49.5%" min-width="320px" align="center"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Scorch879&layout=compact&theme=dark&hide_border=true&card_width=460&langs_count=8" alt="Top Languages" width="49.5%" min-width="320px" align="center"/></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ I am a Full-stack developer specializing in hardware integration, embedded syste
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scorch879&theme=dark-mono&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://activity-graph.vercel.app/graph?username=Scorch879&theme=dark-mono&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
